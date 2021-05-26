@@ -3,7 +3,7 @@
 
 
 ![git-logo](./assets/Git_logo_1788C.png)
-LICENSE: [MIT](./license.md)
+*LICENSE: [MIT](./license.md)*
 
 ---
 
@@ -20,5 +20,5 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Jason Long - [link](https://git-scm.com/downloads/logos),
-licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+*GIT logo by Jason Long - [link](https://git-scm.com/downloads/logos),
+licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
