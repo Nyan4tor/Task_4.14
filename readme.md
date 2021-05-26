@@ -1,23 +1,22 @@
 # Инструкция по работе с GIT
 
 
-LICENSE: [MIT](./license.md)
 
 ![git-logo](./assets/Git_logo_1788C.png)
+LICENSE: [MIT](./license.md)
 
 ---
 
-### Основные команды
-1. [git add](./add.md)
-2. [git status]()
-3. [git diff]()
-4. [git fifftool]()
-5. [git commit]()
-6. [git reset]()
-7. [git reset]()
-8. [git rm]()
-9. [git mv]()
-10. [git clean]()
+### Основные команды GIT
+1. **[git add](./add.md)**
+2. **[git status](status.md)**
+3. **[git diff](diff.md)**
+4. **[git difftool](difftool.md)**
+5. **[git commit](commit.md)**
+6. **[git reset](reset.md)**
+7. **[git rm](rm.md)**
+8. **[git mv](mv.md)**
+9. **[git clean](clean.md)**
 
 ---
 
